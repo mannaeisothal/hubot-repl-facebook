@@ -1,7 +1,8 @@
 {
   "name": "hubot-repl-facebook",
   "env": {
-    "HUBOT_FACEBOOK_TOKEN": "",
+    "FB_LOGIN_EMAIL": "",
+    "FB_LOGIN_PASSWORD":"",
     "HUBOT_REPL_API_KEY": "",
     "HUBOT_REPL_BOT_ID": "",
     "HUBOT_REPL_TOPIC_ID": ""
