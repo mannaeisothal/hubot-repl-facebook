@@ -1,5 +1,5 @@
 {
-  "name": "hubot-repl-line",
+  "name": "hubot-repl-facebook",
   "version": "0.0.0",
   "private": true,
   "author": "Takahiro Poly Horikawa <horikawa.takahiro@gmail.com>",
@@ -11,7 +11,7 @@
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.3",
     "hubot-heroku-keepalive": "^1.0.2",
-    "hubot-line": "0.0.6",
+    "hubot-facebook":0.0.1,
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
